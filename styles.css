@@ -1,1 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 
+body {
+    height: 100vh;
+    background-color: #fff;
+}
+
+.geometryDash{
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    outline: 1px solid #000;
+    /* background: black; */
+    position: absolute;
+}
