@@ -1,3 +1,3 @@
-Group Members: Eduardo Cisneros, Miguel Moreno and Justine Bostrillo.
+Group Members: Eduardo Cisneros, Miguel Moreno, Richard Ortega and Justine Bostrillo
 
-Project Description: Website: Tab of games
+Project Description: Website Tab of games
